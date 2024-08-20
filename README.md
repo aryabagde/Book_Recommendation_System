@@ -76,6 +76,3 @@ A hybrid recommendation system was built using the combination of both content-b
 * numpy, scipy- number python library
 * pandas - data handling library
 
-### 4. Acknowledgments:
-
-Machine Learning Monsoon 2020 (CSE543) @IIIT Delhi
